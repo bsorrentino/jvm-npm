@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>org.bsc</groupId>
 		<artifactId>jvm-npm</artifactId>
-		<version>1.0.1-SNAPSHOT</version>
+		<version>1.1.0</version>
 	</parent>
 	<artifactId>jvm-npm-rhino</artifactId>
 	<name>JVM-NPM::Rhino</name>
