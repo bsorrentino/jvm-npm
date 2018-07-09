@@ -10,7 +10,10 @@
 	<name>JVM-NPM::Rhino</name>
 
 	<properties>
-		<version.rhino>1.7.7.1</version.rhino>
+	   <!-- 
+        <version.rhino>1.7.7.1</version.rhino>
+	    -->
+        <version.rhino>1.7.10</version.rhino>
 	</properties>
 
 	<dependencies>
